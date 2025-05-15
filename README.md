@@ -12,11 +12,11 @@ It is developed as part of the "Multimedia Systems" university course.
 
 ## 📁 Contents
 
-- `main.ipynb`: Main notebook with all stages (preprocessing, compression, analysis)
+- `mms.py`: Main code with all stages (preprocessing, compression, analysis)
 - `frames/`: Folder containing individual video frames
 - `residuals/`: Residual frames computed from frame differencing
 - `charts/`: Output charts used for analysis (frequency histograms, pie charts, etc.)
-- `video.mp4`: Input video used for processing
+- `video.avi`: Input video used for processing
 - `README.md`: This documentation
 
 ---
